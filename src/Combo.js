@@ -96,3 +96,4 @@ class Combo {
     return data.combos[this.constructor.name]
   }
 }
+export default Combo;
